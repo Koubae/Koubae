@@ -47,7 +47,7 @@ I'm Federico, originally from Italy, but I've spent over a decade living across 
 ###
 
 <a href="https://federicobau.dev" target="_blank" style="margin-left: 1rem;" >
-   <h3 align="left">My Portfolio</h3>
+   <h3 >My Portfolio</h3>
 </a>
 
 
