@@ -44,11 +44,7 @@
 
 I'm Federico, originally from Italy, but I've spent over a decade living across Europe — including London, Portugal, and Cyprus. I'm currently based in Barcelona, where I've been working as a Software Engineer ever since.
 
-###
-
-<a href="https://federicobau.dev" target="_blank" style="margin-left: 1rem;" >
-   <h3 >My Portfolio</h3>
-</a>
+* **Portfolio:** https://federicobau.dev
 
 
 ###
