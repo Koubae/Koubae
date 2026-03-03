@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="./assets/galaxy-1.gif"  />
+  <img height="350" src="./assets/connected-graph-1.gif"  />
 </div>
 
 ###
