@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="./assets/Hacking%20Rocco%20Botte%20GIF%20by%20Mega64.gif"  />
+  <img height="350" src="./assets/galaxy-1.gif"  />
 </div>
 
 ###
